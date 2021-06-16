@@ -4,4 +4,4 @@ dependencies:
   - matplotlib
   - numpy
   - scikit-learn
-  - graphviz
+  - python-graphviz
